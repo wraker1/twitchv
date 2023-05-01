@@ -1,1 +1,1 @@
-worker
+web: gunicorn twitchv:worker 
