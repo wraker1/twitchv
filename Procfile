@@ -1,1 +1,1 @@
-web: node dist/server.js
+web: gunicorn ctvbot.wsgi
