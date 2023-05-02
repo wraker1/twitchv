@@ -1,1 +1,1 @@
-web: gunicorn ctvbot.wsgi
+web: gunicorn main_gui.py
